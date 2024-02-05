@@ -4,4 +4,6 @@ public class Hw2IfFinish {
 	// 做完了
 	// HaHaHa
 	//練習 複習 
+	//更新
+	//更新
 }
